@@ -2,6 +2,8 @@
     "name": "technical-task",
     "version": "0.1.0",
     "private": false,
+    "main": "index.js",
+    "homepage": ".",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
